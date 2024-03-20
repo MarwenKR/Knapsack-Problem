@@ -1,2 +1,2 @@
-# Travelling-salesman-problem
- Solving the Travelling salesman problem using genetic algorithm
+# Knapsack-Problem problem
+ Solving the Knapsack-Problem problem using genetic algorithm
